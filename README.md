@@ -1,4 +1,4 @@
-# thesis_code
+# Survival of human cancer cells after their exposure to ionizing radiation
 Here, you will find the code for my thesis project. It is written in Python.
 The aim was to develop a predictive model that would study the effects of ionizing radiation (X and γ rays) on human cancer cells with the use of ML algorithms.
 The models are based on the bagging algorithm, Random Forest, and the boosting algorithm, Gradient Boosting.
