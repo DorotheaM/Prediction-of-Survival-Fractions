@@ -9,11 +9,6 @@ from itertools import accumulate, chain, repeat, tee
 import matplotlib.gridspec as gridspec
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error,r2_score
-from IPython.display import Image
-from sklearn import tree
-from sklearn.tree import export_graphviz
-import pydotplus
-import joblib
 
 def chunk(xs, n):
     """
